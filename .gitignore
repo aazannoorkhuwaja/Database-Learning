@@ -31,3 +31,6 @@ Thumbs.db
 config.py
 .env
 secret_key.txt
+
+# Submodules / Nested Repos
+DB-Project/
